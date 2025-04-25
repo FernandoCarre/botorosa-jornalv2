@@ -1,0 +1,40 @@
+html {
+    font-family: "Cascadia Code", sans-serif;
+    font-size: 24px;
+}
+
+.urgente {
+    color: red;
+}
+
+body {
+    background-color: #FAF57F;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 110px;
+    letter-spacing: 10px;
+    margin: 0 0 100px 0;
+    text-shadow: 1px 1px 2px turquoise;
+    background-color: rgb(240, 238, 118);
+}
+
+p {
+    line-height: 50px; /* Altura entre letras */
+    letter-spacing: 10px; /* Espaçamento entre letras */
+    text-align: justify; /* Justifica o texto */
+    margin: 0px 700px;
+}
+
+.destaque {
+    background-color: rgb(240, 238, 118);
+    font-size: 20px;
+    text-align: center;
+    margin: 70px 0 0 0;
+}
